@@ -23,11 +23,11 @@ Vitamin A is a crucial fat-soluble vitamin essential for maintaining healthy vis
 
 ## Deficiency Symptoms
 
-*(This section will describe symptoms and signs of Vitamin A deficiency, such as night blindness, xerophthalmia, skin changes, and increased infection risk.)*
+*(This section will describe symptoms and signs of of Vitamin A deficiency, such as night blindness, xerophthalmia, skin changes, and increased infection risk.)*
 
 ## Supplementation Risks
 
-*(This section will discuss the risks associated with excessive Vitamin A intake, including acute and chronic toxicity symptoms.)*
+*(Supplementation risks are detailed in a separate file: **[supplementation-risks.md](./supplementation-risks.md)**.*)
 
 ---
 
