@@ -16,7 +16,8 @@ Acute toxicity occurs when a very large dose of Vitamin A is ingested over a sho
 - **Muscle and joint pain**
 - **Fatigue and irritability**
 
-*Note: Acute toxicity is rare from dietary sources but can happen with inappropriate supplement use.*
+*Note: Acute toxicity is rare from dietary sources but can happen with inappropriate supplement use.*  
+*Sources: Symptoms of acute hypervitaminosis A are documented in clinical case reports and toxicity guidelines from organizations such as the NIH Office of Dietary Supplements and the World Health Organization.*
 
 ## Chronic Toxicity
 
@@ -37,7 +38,7 @@ Chronic toxicity results from prolonged intake of moderately high doses of Vitam
 
 ### Pregnant Women
 
-The teratogenic risk of high-dose Vitamin A is highest during the first trimester. Pregnant women should avoid supplements containing more than 3,000 µg RAE of preformed Vitamin A (retinol) and consult a healthcare provider before taking any Vitamin A supplements.
+The teratogenic risk of high-dose Vitamin A is highest during the first trimester. Pregnant women should avoid supplements containing more than 3,000 µg RAE of preformed Vitamin A (retinol) and consult a healthcare provider before taking any Vitamin A supplements. It is strongly recommended to consult a doctor before starting any high-dose Vitamin A supplements, especially during pregnancy.
 
 ### Children
 
